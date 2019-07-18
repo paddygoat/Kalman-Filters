@@ -1,6 +1,6 @@
-<img src="https://github.com/paddygoat/WEEDINATOR/blob/master/images/WEEDINATOR%202018.png" />
+<img src="https://github.com/paddygoat/Kalman-Filters/blob/master/graph20.png" />
 
-# WEEDINATOR
+# Kalman Filter
 Code for microprocessor modules controlling the WEEDINATOR agricultural robot and manufacturing files.  All code compiles using the Arduino IDE and is in .ino format.
 
 ## Processors
