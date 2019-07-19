@@ -17,7 +17,7 @@ r1 =  50, q1 = 0.1,
 r2 = 100, q2= 0.01, 
 r3 = 40, q3= 5, 
 r4 = 22, q4= 20.
-<img src="https://github.com/paddygoat/Kalman-Filters/blob/master/graph22.png" />
+<img src="https://github.com/paddygoat/Kalman-Filters/blob/master/graph23.png" />
 The graph above shows results during which the Pi was put under load (traing a neural network) and then unloaded again.
 TempPi = BLACK, 
 Kalman_1 = RED, 
