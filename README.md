@@ -8,12 +8,12 @@ r2 = 22, q2= 0.5  (GREEN)
 
 
 <img src="https://github.com/paddygoat/Kalman-Filters/blob/master/graph21.png" />
-TempPi = BLACK
-Kalman_1 = RED
-Kalman_2 = GREEN
-Kalman_3 = BLUE
-Kalman_4 = ORANGE
-r1 =  50, q1 = 0.1
-r2 = 100, q2= 0.01
-r3 = 40, q3= 5
-r4 = 22, q4= 20
+TempPi = BLACK, 
+Kalman_1 = RED, 
+Kalman_2 = GREEN, 
+Kalman_3 = BLUE, 
+Kalman_4 = ORANGE, 
+r1 =  50, q1 = 0.1, 
+r2 = 100, q2= 0.01, 
+r3 = 40, q3= 5, 
+r4 = 22, q4= 20.
