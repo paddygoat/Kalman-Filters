@@ -22,7 +22,7 @@ r4 = 22, q4= 20.
 <p></p>
 <p>This is the main bit of code that was used to build the filter, derived from <a href="https://www.kalmanfilter.net/default.aspx" target="_blank">Alex's tutorial</a>:</p>
 
-<figure><img class="lazy" src="https://cdn.hackaday.io/images/5029601563614846858.jpg">The Jupityer notebook can be downloaded from Github <a href="https://github.com/paddygoat/Kalman-Filters/blob/master/Kalman_Temperatures_Pi_Internal_Sensor.ipynb" target="_blank">HERE</a>.<br>There are 2 constants to 'play about with', namely 'r' and 'q' and here are some of my results with different values. The original readings, with a bit of noise added, are always in black.#<br></figure>
+<figure><img class="lazy" src="https://cdn.hackaday.io/images/5029601563614846858.jpg">The Jupityer notebook can be downloaded from Github <a href="https://github.com/paddygoat/Kalman-Filters/blob/master/Kalman_Temperatures_Pi_Internal_Sensor.ipynb" target="_blank">HERE</a>.<br>There are 2 constants to 'play about with', namely 'r' and 'q' and here are some of my results with different values. The original readings, with a bit of noise added, are always in black.<br></figure>
 
 <figure><img class="lazy" src="https://github.com/paddygoat/Kalman-Filters/blob/master/graph24.jpg"><p>The graph above shows results during which the Pi was put under load (training a neural network) and then unloaded again.
 <br>TempPi = BLACK, <br></p>
